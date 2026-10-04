@@ -1,4 +1,4 @@
-shared.KillAllDelay = 0 -- キル速度の遅延をゼロに設定
+shared.KillAllDelay = 0 
 shared.AutoWin = true
 shared.LoopKill = true
 
